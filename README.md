@@ -6,7 +6,6 @@ Created various charts, KPI indicators, Slicers and Map Visualisation technoques
 time series analysis and Predictive Modeling.
 Used various indicators to generate an interactive and visual dashboard.
 
-Insights---
 
 
 
