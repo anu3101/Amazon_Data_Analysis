@@ -23,7 +23,7 @@ Identifying trends and outliers.  <br>
 
 **SQL Querying**  <br>
 For more complex queries and to derive deeper insights, SQL is used. The SQL scripts can be found in the Amazon_Insights.sql  <br>
-**Dashboard Reporting **
+**Dashboard Reporting**
 The final step is to create an interactive dashboard in Power BI. This dashboard provides a visual representation of the key insights derived from the analysis. <br>
 
 
